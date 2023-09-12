@@ -1,0 +1,43 @@
+/* Styles for the Navbar Container */
+.Navigation {
+    background-color: #bcd4d8; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    color: #fff;
+    padding-bottom: 0px;
+    padding-top: 0px;
+  }
+  
+/* Styles for the Left Content (Breaking News) */
+.left-content ul li{        
+    list-style-type: none;   
+}
+
+
+/* Styles for the Right Content (Login and Sign Up Links) */
+.right-content ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px; /* Spacing between the links */
+}
+  
+.right-content a {
+    text-decoration: none;
+    color: #e20c1e;
+    font-weight: bold;
+}
+
+.right-content {
+    margin-right: 15px;
+}
+  
+/* Hover effect for links */
+.right-content a:hover {
+    color: #ff6600; /* Change the color on hover */
+}
+
+.navbar-login-signup {
+    padding-left: 0px;   
+}
+  

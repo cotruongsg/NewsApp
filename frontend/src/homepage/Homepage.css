@@ -1,0 +1,32 @@
+.homepage-container {
+  /* put around the vertical center of page */
+  height: calc(100vh - 150px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;  
+}
+
+.homepage-btn {
+  background-color: #0408f8;
+  color: #fafaff;
+  font-size: 20px;
+  justify-content: center;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 8px 15px;  
+  border-radius: 15px; 
+}
+
+.homepage-btn-margin {
+  margin-right: 10px; /* Adjust the desired margin between the buttons */
+}
+
+#video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the video covers the entire container */
+}

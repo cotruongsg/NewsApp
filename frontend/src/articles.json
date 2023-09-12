@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 753,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alex Heath",
+            "title": "Zuck turns up the heat",
+            "description": "Meta CEO Mark Zuckerberg has bluntly told his employees that he expects them to work harder. But with their confidence in him at an all-time low, it’s unclear if they’ll rise to the challenge.",
+            "url": "https://www.theverge.com/23277797/mark-zuckerberg-meta-facebook-employees-pressure",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/WO9bSOG8wpbNEdrOnei1nyQhKPQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23898998/220822_metaLogo.jpg",
+            "publishedAt": "2022-07-26T12:00:00Z",
+            "content": "Photo: Amelia Holowaty Krales and Alex Castro / Sculpture: Okamoto Studio Custom Ice\r\n\n \n\n\n As Meta’s growth slows, Mark Zuckerberg is pushing even harder. Will his employees melt under the pressure?… [+17958 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Stocks wobble on Walmart warning, looming Fed hike - Reuters",
+            "description": "Asian shares wobbled on Tuesday and bonds were firm as a profit warning from Walmart put consumption and company earnings under a cloud ahead of what is likely to be another sharp U.S. interest rate hike.",
+            "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-07-26/",
+            "urlToImage": "https://www.reuters.com/resizer/AysGGSd10sYex-xyJoNcSPFglzU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NT44ZEEGFFPZROV4KQSEPPSLN4.jpg",
+            "publishedAt": "2022-07-26T02:44:00Z",
+            "content": "HONG KONG, July 26 (Reuters) - Asian shares wobbled on Tuesday and bonds were firm as a profit warning from Walmart put consumption and company earnings under a cloud ahead of what is likely to be an… [+2400 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Taiwan Q2 GDP to gain from chip exports, but face COVID headwinds - Reuters.com",
+            "description": "Taiwan's trade-reliant economy is expected to have expanded on the back of strong global demand for computer chips, though COVID-19 lockdowns in top export market China and a surge in domestic infections could drag on demand, a Reuters poll showed.",
+            "url": "https://www.reuters.com/markets/asia/taiwan-q2-gdp-gain-chip-exports-face-covid-headwinds-2022-07-26/",
+            "urlToImage": "https://www.reuters.com/resizer/VdxW46MgaZ-b5IGm04J4wImSJ8U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IUK3BAMAFRPONN567ZW66YORBM.jpg",
+            "publishedAt": "2022-07-26T02:52:00Z",
+            "content": "TAIPEI, July 26 (Reuters) - Taiwan's trade-reliant economy is expected to have expanded on the back of strong global demand for computer chips, though COVID-19 lockdowns in top export market China an… [+2146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Sami Fathi",
+            "title": "Apple Replaces Last Remaining Intel-Made Component in M2 MacBook Air",
+            "description": "In the M2 MacBook Air, Apple has replaced an Intel-made component responsible for controlling the USB and Thunderbolt ports with a custom-made controller, meaning the last remnants of Intel are now fully out of the latest Mac.\n\n\n\n\n\nEarlier this month, the rep…",
+            "url": "https://www.macrumors.com/2022/07/26/apple-replaces-intel-component-in-macbook-air/",
+            "urlToImage": "https://images.macrumors.com/t/kdZPgdGBtn7KigCgvnbjP2ffY70=/2500x/article-new/2022/06/M2-MacBook-Air-2022-Feature0007.jpg",
+            "publishedAt": "2022-07-26T10:17:13Z",
+            "content": "In the M2MacBook Air, Apple has replaced an Intel-made component responsible for controlling the USB and Thunderbolt ports with a custom-made controller, meaning the last remnants of Intel are now fu… [+977 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gglover@insider.com (George Glover)",
+            "title": "Global stocks mixed as analysts anticipate another 'snooze-fest' ahead of July Fed meeting and Big Tech earnings",
+            "description": "Tech giants Apple, Amazon, Microsoft, and Alphabet will all release quarterly earnings reports later this week.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-federal-reserve-meeting-big-tech-earnings-2022-7",
+            "urlToImage": "https://i.insider.com/6140f3bff0cb130019e8c243?width=1200&format=jpeg",
+            "publishedAt": "2022-07-26T08:38:03Z",
+            "content": "Markets were subdued once again on Tuesday as investors waited on the Federal Reserve's latest meeting and the release of Big Tech quarterly earnings reports later this week.\r\nThe Federal Open Market… [+1825 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jerb@insider.com (Jordan Parker Erb)",
+            "title": "Facebook employees are preparing for staff cuts of up to 10%",
+            "description": "The biggest story in tech right now is that Facebook employees are preparing for layoffs — with some predicting cuts of up to 10%.",
+            "url": "https://www.businessinsider.com/meta-facebook-employees-expect-layoffs-2022-7",
+            "urlToImage": "https://i.insider.com/62df16f1d571050018ad7b00?width=1200&format=jpeg",
+            "publishedAt": "2022-07-26T10:15:00Z",
+            "content": "Hey, maybe you should take it easy. Yes, you. While major industry figures like Elon Musk believe working 80 hours a week is the only way to \"change the world,\" research suggests working less can act… [+3946 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gglover@insider.com (George Glover)",
+            "title": "This latest rally is full of 'wishful thinking' and stocks have further to fall as the Fed fights inflation, Morgan Stanley says",
+            "description": "The stock market is looking resilient, but the CIO of the bank's wealth management division expects the Federal Reserve to keep hiking rates.",
+            "url": "https://markets.businessinsider.com/news/stocks/bear-market-rally-stocks-outlook-analysis-morgan-stanley-wealth-management-2022-7",
+            "urlToImage": "https://i.insider.com/62dfaddbd571050018ad8022?width=1200&format=jpeg",
+            "publishedAt": "2022-07-26T10:11:55Z",
+            "content": "Investors should brace for further Federal Reserve hawkishness that will likely cause July's stock market rebound to fizzle out, according to Morgan Stanley Wealth Management.\r\nThe S&amp;P 500 has cl… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gglover@insider.com (George Glover)",
+            "title": "Stocks have already bottomed, according to a veteran strategist who nailed bear market forecasts in 1982 and 2009",
+            "description": "The slump in stocks in 2022 slump could be coming to an end with the S&P 500 likely bottoming last month, according to Ed Yardeni.",
+            "url": "https://markets.businessinsider.com/news/stocks/bear-market-outlook-stock-strategy-bottom-veteran-strategist-ed-yardeni-2022-7",
+            "urlToImage": "https://i.insider.com/62dfc35ebd18c30019d1ceb0?width=1200&format=jpeg",
+            "publishedAt": "2022-07-26T11:28:01Z",
+            "content": "The 2022 bear market in stocks could finally be coming to an end, according to Ed Yardeni.\r\nThe veteran market strategist pinpointed June 16, when the S&amp;P 500 closed at an 18-month low of 3,666 p… [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "MarketBeat Staff",
+            "title": "MarketBeat Podcast Bear Market Tips For Active Traders",
+            "description": "In this episode of The MarketBeat Podcast, Kate chats with Dan Raju, CEO of trading platform Tradier. Dan has a unique perspective on how traders and investors are behaving in...",
+            "url": "https://www.entrepreneur.com/article/432132",
+            "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-432132.jpeg",
+            "publishedAt": "2022-07-26T10:00:00Z",
+            "content": "In this episode of The MarketBeat Podcast, Kate chats with Dan Raju, CEO of trading platform Tradier. Dan has a unique perspective on how traders and investors are behaving in these market conditions… [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Cómo el chip A16 del iPhone 14 Pro superará al A15 del iPhone 13",
+            "description": "En teoría solo los iPhone con apellido Pro llegarán con un nuevo chip. Según reportes, Apple habría optado por mantener el A15 Bionic de los iPhone 13 y 13 Pro en los dos modelos base del iPhone 14 que podrían llegar durante el mes de septiembre. En cambio, l…",
+            "url": "https://hipertextual.com/2022/07/chip-a16-bionic-iphone-14-pro-posibles-mejoras",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/07/iPhone-14-Pro-Gold-Side-to-Side-Alpha-scaled.jpg",
+            "publishedAt": "2022-07-26T09:56:49Z",
+            "content": "En teoría solo los iPhone con apellido Pro llegarán con un nuevo chip. Según reportes, Apple habría optado por mantener el A15 Bionic de los iPhone 13 y 13 Pro en los dos modelos base del iPhone 14 q… [+3430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Probamos el Poco F4: el móvil más equilibrado de Xiaomi tiene la competencia en su propia casa",
+            "description": "Poco, la marca propiedad de Xiaomi, tiene desde hace unas semanas dos nuevos miembros en su catálogo de smartphones de gama media. Por un lado, el Poco X4 GT, que llega con chip MediaTek y una gran batería de más de 5.000 mAh. Por otro, el Poco F4, la renovac…",
+            "url": "https://hipertextual.com/2022/07/poco-f4-review-caracteristicas-precio-opinion",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/07/poco-f4-002.jpg?fit=1920%2C1080&quality=50&strip=all&ssl=1",
+            "publishedAt": "2022-07-26T06:00:00Z",
+            "content": "Poco, la marca propiedad de Xiaomi, tiene desde hace unas semanas dos nuevos miembros en su catálogo de smartphones de gama media. Por un lado, el Poco X4 GT, que llega con chip MediaTek y una gran b… [+10143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Lacort",
+            "title": "Las grandes tecnológicas ponen el ojo en los deportes en directo. Tienen dos buenos motivos para hacerlo",
+            "description": "Nos acercamos al lustro. Es el tiempo que llevamos, más o menos, con el runrún de las grandes tecnológicas entrando en el negocio de las retransmisiones deportivas. Con una experiencia similar a la de otros sectores siendo avasallados por las tecnológicas (te…",
+            "url": "https://www.xataka.com/servicios/grandes-tecnologicas-ponen-ojo-deportes-directo-tienen-dos-buenos-motivos-para-hacerlo",
+            "urlToImage": "https://i.blogs.es/af390e/1366_2000/840_560.jpeg",
+            "publishedAt": "2022-07-26T08:01:47Z",
+            "content": "Nos acercamos al lustro. Es el tiempo que llevamos, más o menos, con el runrún de las grandes tecnológicas entrando en el negocio de las retransmisiones deportivas. Con una experiencia similar a la d… [+4570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Lacort",
+            "title": "Los deportes llegan a JustWatch: además de películas y series, podrás encontrar dónde ver partidos de fútbol o carreras de F1",
+            "description": "JustWatch se ha consolidado en los últimos años como una de las principales opciones, seguramente la más conocida, donde consultar en qué plataforma de vídeo bajo demanda podemos encontrar una película o serie concreta. Integra el contenido de Netflix, HBO Ma…",
+            "url": "https://www.xataka.com/aplicaciones/deportes-llegan-a-justwatch-peliculas-series-podras-encontrar-donde-ver-partidos-futbol-carreras-f1",
+            "urlToImage": "https://i.blogs.es/e61acc/justwatch-sports---laliga-_-match---es/840_560.png",
+            "publishedAt": "2022-07-26T12:01:47Z",
+            "content": "JustWatch se ha consolidado en los últimos años como una de las principales opciones, seguramente la más conocida, donde consultar en qué plataforma de vídeo bajo demanda podemos encontrar una pelícu… [+2575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Enrique Pérez",
+            "title": "Francia obligará a poder darse de baja de cualquier contrato con un máximo de 3 clics. En España todavía está pendiente",
+            "description": "Cancelar una suscripción o contrato no debe ser más difícil que un par de clics. Lamentablemente muchas empresas intentar \"alargar\" esa acción con el objetivo de que el usuario se lo repiense. Ahora el gobierno francés ha tomado cartas en el asunto y ha votad…",
+            "url": "https://www.xataka.com/legislacion-y-derechos/francia-obligara-a-poder-darse-baja-cualquier-suscripcion-maximo-3-clics-espana-todavia-esta-pendiente",
+            "urlToImage": "https://i.blogs.es/a79f63/hacer-clic/840_560.jpg",
+            "publishedAt": "2022-07-26T11:35:03Z",
+            "content": "Cancelar una suscripción o contrato no debe ser más difícil que un par de clics. Lamentablemente muchas empresas intentar \"alargar\" esa acción con el objetivo de que el usuario se lo repiense. Ahora … [+3737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Trevor Mogg",
+            "title": "Ouch! Some Amazon Prime members face a 43% price hike",
+            "description": "Following a similar increase in the U.S. earlier this year, Amazon Prime members across Europe will see the cost of their subscriptions rise by up to 43%.",
+            "url": "https://www.digitaltrends.com/news/ouch-amazon-prime-members-in-europe-to-pay-up-to-43-more/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/05/amazon-logo.jpg?p=1",
+            "publishedAt": "2022-07-26T11:20:02Z",
+            "content": "Some Amazon Prime customers in Europe are about to see the cost of their subscription rise by 43%.\r\nAccording to Reuters, Amazon Prime members in the U.K., for example, have been told the annual fee … [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pragmaticengineer.com"
+            },
+            "author": "Gergely Orosz",
+            "title": "Becoming a Full-Time Creator as a Software Engineer",
+            "description": "I'm making a living by writing, full-time. My newsletter\n[https://newsletter.pragmaticengineer.com/about] is the #1 paid technology\nnewsletter on Substack [https://substack.com/discover/category/technology/paid].\nI'm what some describe as a full-time creator.…",
+            "url": "https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/",
+            "urlToImage": "https://blog.pragmaticengineer.com/content/images/2022/04/Screenshot-2022-04-19-at-10.10.24.png",
+            "publishedAt": "2022-07-26T02:08:48Z",
+            "content": "I'm making a living by writing, full-time. My newsletter is the #1 paid technology newsletter on Substack. I'm what some describe as a full-time creator. \r\nWith remote work becoming more common in te… [+29654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Apple Car: Fast 250 Patente – aber immer noch kein Auto",
+            "description": "Eine Analyse zeigt, dass sich Apple eine große Menge an Rechten an fahrzeugrelevanten Erfindungen gesichert hat. Wann das \"iCar\" kommt, ist völlig unklar.",
+            "url": "https://www.heise.de/news/Apple-Car-Fast-250-Patente-aber-immer-noch-kein-Auto-7189813.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/1/8/1/5/apple_park_sun-4f1c5f3cad5bcb5a.jpg",
+            "publishedAt": "2022-07-26T08:07:00Z",
+            "content": "Apple hat in den vergangenen 22 Jahren insgesamt 248 Patentanträge aus dem Bereich Automobiltechnik gestellt, die allesamt mittlerweile publiziert wurden. Besonders in den letzten Jahren steigerte si… [+2693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Malte Kirchner",
+            "title": "Großes Update von Apples Streetview-Dienst: Umsehen in fast ganz Deutschland",
+            "description": "Apple hat seinen Straßenfoto-Dienst Look Around (Umsehen) in Deutschland drastisch erweitert. Unzählige Städte und sogar kleine Dörfer sind neu hinzugekommen.",
+            "url": "https://www.heise.de/news/Mega-Update-von-Apples-Streetview-Dienst-Umsehen-jetzt-in-fast-ganz-Deutschland-7189987.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/1/9/1/2/Bildschirmfoto_2022-07-26_um_10.09.57-69060db5f5605054.png",
+            "publishedAt": "2022-07-26T08:58:00Z",
+            "content": "Apple hat seinen Straßenfotografie-Dienst Umsehen (engl. Look Around) in Deutschland deutlich erweitert. Der hierzulande erst im Frühjahr an den Start gebrachte Dienst umfasst jetzt unzählige Städte … [+1721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Tim Schürmann",
+            "title": "heise+ | Wissenswertes zum Kauf von Bürohardware vom Refurbisher",
+            "description": "Günstig, umweltschonend und schnell verfügbar: Wiederaufbereitete Profi-Hardware vom Refurbisher wird nicht nur bei Privatkunden immer beliebter.",
+            "url": "https://www.heise.de/hintergrund/Wissenswertes-zum-Kauf-von-Buerohardware-vom-Refurbisher-7180919.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/7/7/1/4/6/2_refurbishing_alte_hardware_verkaufen-69b36e0984d37102.jpg",
+            "publishedAt": "2022-07-26T06:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nDer Handel mit gebrauchter Hardware boomt. Auch Unternehmen interessieren sich zunehmend für wiederaufbereitete Laptops und Server. Der anhaltende Chipmangel verstärkt das Interes… [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Apple Brompton Road store features curved and mirrored ceilings; 200 staff; world first flooring",
+            "description": "A preview of the new Apple Brompton Road store in London’s upmarket Knightsbridge shopping area shows off both the unique features of the space itself, and a number of Apple Store firsts. The store will be the fifth one in London, and the third flagship, alon…",
+            "url": "https://9to5mac.com/2022/07/26/apple-brompton-road-2/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/Apple-Brompton-Road-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-26T11:10:50Z",
+            "content": "A preview of the new Apple Brompton Road store in London’s upmarket Knightsbridge shopping area shows off both the unique features of the space itself, and a number of Apple Store firsts. The store w… [+4663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple and other companies reportedly bought gold from illegal miners in Brazil",
+            "description": "Natural resources such as gold and copper are fundamental in the manufacturing process of electronic products. And since these resources are so valuable, there are many illegal mining companies around the world. Unfortunately, it seems that Apple, Google, Mic…",
+            "url": "https://9to5mac.com/2022/07/25/apple-bought-gold-illegal-in-brazil/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/Apple-and-other-companies-reportedly-bought-gold-from-illegal-miners-in-Brazil.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-26T00:11:23Z",
+            "content": "Natural resources such as gold and copper are fundamental in the manufacturing process of electronic products. And since these resources are so valuable, there are many illegal mining companies aroun… [+3246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Streaming music antitrust action unlikely; Apple Music market share 10-20% in UK",
+            "description": "The UK’s antitrust watchdog has said that streaming music antitrust action is unlikely, despite the fact that the business is dominated by a small number of major players. Apple Music is said to be the third most popular service.\nThe Competition and Markets A…",
+            "url": "https://9to5mac.com/2022/07/26/streaming-music-antitrust/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/Streaming-music-antitrust.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-26T12:05:17Z",
+            "content": "The UK’s antitrust watchdog has said that streaming music antitrust action is unlikely, despite the fact that the business is dominated by a small number of major players. Apple Music is said to be t… [+3924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "iCloud Passwords for Windows now supports 2FA code generator",
+            "description": "Apple last year updated its iCloud Utility for Windows with a password manager for the first time, so that users can access and manage their passwords stored in iCloud Keychain from a Windows PC. Now the iCloud Utility has been updated with support for two-fa…",
+            "url": "https://9to5mac.com/2022/07/25/icloud-passwords-windows-2fa-code/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/iCloud-Windows-password.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-26T03:09:54Z",
+            "content": "Apple last year updated its iCloud Utility for Windows with a password manager for the first time, so that users can access and manage their passwords stored in iCloud Keychain from a Windows PC. Now… [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Here’s how the new Lockdown Mode in iOS 16 restricts web browsing",
+            "description": "One of the new features of iOS 16 is Lockdown Mode, which helps users protect themselves against targeted cyber attacks by disabling multiple device features. Among everything Lockdown Mode changes, it also restricts web browsing – and now software engineer A…",
+            "url": "https://9to5mac.com/2022/07/25/lockdown-mode-ios-16-restricts-web-browsing/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/How-Lockdown-Mode-in-iOS-16-restricts-web-browsing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-26T01:36:15Z",
+            "content": "One of the new features of iOS 16 is Lockdown Mode, which helps users protect themselves against targeted cyber attacks by disabling multiple device features. Among everything Lockdown Mode changes, … [+3184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "James Riswick",
+            "title": "2022 Chevy Bolt EV Road Test | Time to play EV, gas or airplane?",
+            "description": "Filed under:\n Green,Chevrolet,Driving,Smartphone,Hatchback,Electric,Road Tests\n Continue reading 2022 Chevy Bolt EV Road Test | Time to play EV, gas or airplane?\n2022 Chevy Bolt EV Road Test | Time to play EV, gas or airplane? originally appeared on Autoblog …",
+            "url": "https://www.autoblog.com/2022/07/26/2022-chevy-bolt-ev-road-test/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/07/25171134/2022-Chevy-Bolt-EV-at-Museum-of-Flight.jpg",
+            "publishedAt": "2022-07-26T10:00:00Z",
+            "content": "PORTLAND, Ore. My sister-in-law is being kind enough to trek up to Portland to give us a hand as we pack for our move back down to California. Originally, she was going to fly (you know, cause its 1,… [+8769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Apple previews Brompton Road Apple Store ahead of Thursday's opening",
+            "description": "Apple has shared images of its new Brompton Road Apple Store, a new outlet opening in London on Thursday that features an arched wooden ceiling and vast amounts of plant life.Initially announced on July 18, the opening of the new Apple Brompton Road outlet wi…",
+            "url": "https://appleinsider.com/articles/22/07/26/apple-previews-brompton-road-apple-store-ahead-of-thursdays-opening",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/49592-97040-apple-brompton-road-xl.jpg",
+            "publishedAt": "2022-07-26T10:56:40Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+2255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Apple offers rare iPhone, Apple Watch SE, AirPods discount in China",
+            "description": "Apple is running an almost unheard of iPhone, Apple Watch, and AirPods sale in China, with the iPhone 13 being offered for around $90 off its regular retail price, for a limited time.Apple's iPhone sales have been dipping and then reviving in China. Then most…",
+            "url": "https://appleinsider.com/articles/22/07/26/apple-offers-rare-iphone-apple-watch-se-airpods-discount-in-china",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/49590-97039-000-lead-iPhone-13-xl.jpg",
+            "publishedAt": "2022-07-26T10:06:25Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Steve Jobs's own Apple-1 prototype to be auctioned",
+            "description": "An original prototype Apple-1 computer said to be owned by Steve Jobs, and used in Apple's crucial demo to Paul Terrell, is being auctioned and is expected to fetch at least $500,000.Apple-1 prototype, hand-soldered by Steve Wozniak. (Source: RR Auctions)Appl…",
+            "url": "https://appleinsider.com/articles/22/07/26/steve-jobss-own-apple-1-prototype-to-be-auctioned",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/49588-97038-000-lead-Apple-1-xl.jpg",
+            "publishedAt": "2022-07-26T09:27:35Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Apple Music commands a fifth of UK music streaming market",
+            "description": "A new UK government report claims that Spotify has about 60% of the country's music streaming market, with Amazon holding up to 30%, and Apple Music in third place at around 20%.An independent study recently claimed that financial hardship has meant one milli…",
+            "url": "https://appleinsider.com/articles/22/07/26/apple-music-commands-a-fifth-of-uk-music-streaming-market",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/49594-97044-000-lead-Apple-Music-xl.jpg",
+            "publishedAt": "2022-07-26T11:40:13Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Robert Irish)",
+            "title": "Shining some light on True Tone and Night Shift",
+            "description": "For the past several years, True Tone and Night Shift are two iOS features that have helped users improve their viewing experience. Here's when they came about and what they do.True Tone and Night Shift can help you have a more natural and comfortable viewing…",
+            "url": "https://appleinsider.com/articles/22/07/26/shining-some-light-on-true-tone-and-night-shift",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/49488-96874-true-tone-ipad-xl.jpg",
+            "publishedAt": "2022-07-26T11:56:30Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+6454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Andrew O'Hara)",
+            "title": "SmartMi Air Purifier 2 review: HomeKit air cleansing with UV sterilization",
+            "description": "The SmartMi 2 air purifier has HomeKit smarts, UV sterilization, and good coverage. If not for a messy setup process, this would be a great purifier to add to your home.SmartMi 2 HomeKit air purifierLet's break down the promised specs and compare them against…",
+            "url": "https://appleinsider.com/articles/22/07/26/smartmi-air-purifier-2-review-homekit-air-cleansing-with-uv-sterilization",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/49557-96946-SmartMi-2-Wide-xl.jpg",
+            "publishedAt": "2022-07-26T11:33:36Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+12465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": "Adrián Raya",
+            "title": "Es la guerra: Samsung acaba de 'robar' un ingeniero a Apple para mejorar sus chips Exynos",
+            "description": "Samsung ha contratado a un experto en semiconductores que trabajó para Apple durante el desarrollo de algunos de sus mejores chips.",
+            "url": "https://www.elespanol.com/elandroidelibre/20220726/guerra-samsung-acaba-ingeniero-apple-mejorar-exynos/690681128_0.html",
+            "urlToImage": "https://s1.eestatic.com/2022/01/18/elandroidelibre/noticias-y-novedades/643445709_226066193_600x315.jpg",
+            "publishedAt": "2022-07-26T12:15:53Z",
+            "content": "¿Cuáles son los planes de Samsung para su plataforma Exynos? Probablemente, ni siquiera en Samung lo saben. En los últimos meses hemos visto varias decisiones que se contradicen entre sí, y lo único … [+2413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "小暮ひさのり",
+            "title": "噂の「Apple Watch Pro」、大型ディスプレイでスクエア型デザイン…かも！",
+            "description": "今年登場が予想されるApple Watch Pro。BloombergのMark Gurman（マーク・ガーマン）記者によると、画面は拡大するも円形ではなく既存のスクエア型の進化であるとのこと。",
+            "url": "https://www.gizmodo.jp/2022/07/apple-watch-pro-new-design.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/26/2022-07-26AWk00-w960.jpg",
+            "publishedAt": "2022-07-26T08:30:00Z",
+            "content": "Copyright © mediagene Inc. All Rights Reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "JC Torres",
+            "title": "This MagSafe-compatible power bank concept is dressed to go camping with you",
+            "description": "This MagSafe-compatible power bank concept is dressed to go camping with youAlthough wireless charging has been around for years now, it was only when Apple joined the fold that it really became more widely known and...",
+            "url": "https://www.yankodesign.com/2022/07/26/this-magsafe-compatible-power-bank-concept-is-dressed-to-go-camping-with-you/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2022/07/this-magsafe-compatible-power-bank-concept-is-dressed-to-go-camping-with-you/sharge-7.jpg",
+            "publishedAt": "2022-07-26T10:27:41Z",
+            "content": "Although wireless charging has been around for years now, it was only when Apple joined the fold that it really became more widely known and used. In typical Apple fashion, however, its implementatio… [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Microsiervos.com"
+            },
+            "author": "alvy@microsiervos.com (Alvy)",
+            "title": "El entorno de desarrollo de aplicaciones Xojo 2022r2 incorpora el soporte para Windows ARM",
+            "description": "Hace unos meses comentábamos el lanzamiento de Xojo 2022r1 con unas 220 mejoras en su entorno de desarrollo, con el que se pueden crear fácilmente aplicaciones nativas para Mac OS, Windows, Linux, Web, iOS y Raspberry Pi. Ahora se ha anunciado que la nueva ve…",
+            "url": "https://www.microsiervos.com/archivo/ordenadores/entorno-desarrollo-aplicaciones-xojo-2022r2-windows-arm.html",
+            "urlToImage": "https://img.microsiervos.com/images2022/XojoARMChess.jpg",
+            "publishedAt": "2022-07-26T10:54:03Z",
+            "content": "Por @Alvy 26 de Julio de 2022\r\nHace unos meses comentábamos el lanzamiento de Xojo 2022r1 con unas 220 mejoras en su entorno de desarrollo, con el que se pueden crear fácilmente aplicaciones nativas … [+1278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Thomas Estimbre",
+            "title": "Netflix propose une nouvelle manière de s’abonner sous iOS",
+            "description": "Lassé de payer une commission à Apple, Netflix avait retiré l’option d’abonnement depuis son application iOS. Suite à un changement de politique de la Pomme, il est de nouveau possible de s’abonner depuis un iPhone ou iPad. Toutefois, la procédure n’est pas p…",
+            "url": "https://www.journaldugeek.com/2022/07/26/netflix-propose-une-nouvelle-maniere-de-sabonner-sous-ios/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/07/netflix-iphone-ios.jpg",
+            "publishedAt": "2022-07-26T09:00:28Z",
+            "content": "Lassé de payer une commission à Apple, Netflix avait retiré loption dabonnement depuis son application iOS. Suite à un changement de politique de la Pomme, il est de nouveau possible de sabonner depu… [+2918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Laura Dobberstein",
+            "title": "China seeks global leadership for home-grown fast charging standards",
+            "description": "Officials came right out and said this is all about scoring a global win\nChina has decided it needs a fast charging standard for devices sold inside the Middle Kingdom, and hopes its efforts will see its preferred tech rule the world.…",
+            "url": "https://www.theregister.com/2022/07/26/china_fast_charging_standards_push/",
+            "urlToImage": "https://regmedia.co.uk/2022/07/26/shutterstock_china_battery.jpg",
+            "publishedAt": "2022-07-26T06:57:14Z",
+            "content": "China has decided it needs a fast charging standard for devices sold inside the Middle Kingdom, and hopes its efforts will see its preferred tech rule the world.\r\nThe China Communications Standardiza… [+2417 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "El Apple Watch SE más completo puede ser tuyo con descuentazo y la opción de elegir correa",
+            "description": "El Apple Watch Series 3 se sigue vendiendo oficialmente, pero a estas alturas no es el modelo más recomendable porque no recibirá actualizaciones de software watchOS. Es por eso que el Apple Watch SE es la opción mínima a tener en cuenta, y el modelo con GPS …",
+            "url": "https://www.applesfera.com/seleccion/apple-watch-se-completo-puede-ser-tuyo-descuentazo-opcion-elegir-correa",
+            "urlToImage": "https://i.blogs.es/44b292/apple-watch-se-02/840_560.jpg",
+            "publishedAt": "2022-07-26T08:24:04Z",
+            "content": "El Apple Watch Series 3 se sigue vendiendo oficialmente, pero a estas alturas no es el modelo más recomendable porque no recibirá actualizaciones de software watchOS. Es por eso que el Apple Watch SE… [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "Con la cartera de piel MagSafe de Apple para iPhone a precio mínimo no volverás a olvidarte el DNI o abono transporte",
+            "description": "Si tienes un iPhone 12 o iPhone 13, puedes hacer uso de accesorios MagSafe. Esta tecnología permite acoplar cargadores, fundas, soportes y carteras a la parte trasera del smartphone. La cartera de piel con MagSafe de Apple para iPhone está de oferta en Amazon…",
+            "url": "https://www.applesfera.com/seleccion/cartera-piel-magsafe-apple-para-iphone-a-precio-minimo-no-volveras-a-olvidarte-dni-abono-transporte",
+            "urlToImage": "https://i.blogs.es/74a80f/cartera-magsafe-1-/840_560.jpg",
+            "publishedAt": "2022-07-26T10:23:05Z",
+            "content": "Si tienes un iPhone 12 o iPhone 13, puedes hacer uso de accesorios MagSafe. Esta tecnología permite acoplar cargadores, fundas, soportes y carteras a la parte trasera del smartphone. La cartera de pi… [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Eduardo Archanco",
+            "title": "Ahora podemos darnos de alta en Netflix desde su app. Pero no son tan buenas noticias como parecen",
+            "description": "Llevábamos tiempo esperando este momento, en que pudiéramos darnos de alta desde la app de iPhone de Netflix usando el navegador. Fue uno de los cambios que se anunciaron hace un año. En él, Apple llegó a un acuerdo con la JFTC para permitir a las apps de \"le…",
+            "url": "https://www.applesfera.com/app-store-1/ahora-podemos-darnos-alta-netflix-su-app-no-buenas-noticias-como-parecen",
+            "urlToImage": "https://i.blogs.es/449539/portada/840_560.jpeg",
+            "publishedAt": "2022-07-26T09:45:18Z",
+            "content": "Llevábamos tiempo esperando este momento, en que pudiéramos darnos de alta desde la app de iPhone de Netflix usando el navegador. Fue uno de los cambios que se anunciaron hace un año. En él, Apple ll… [+2824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Eduardo Archanco",
+            "title": "¿Está la funda transparente de tu iPhone amarillenta? Así puedes dejarla otra vez como nueva",
+            "description": "Las fundas transparentes del iPhone son un clásico para proteger el terminal mientras seguimos luciéndolo. Sin embargo, con el paso del tiempo pueden tornarse amarillentas y perder ese atractivo inicial. Hay varias maneras de limpiar una funda transparente de…",
+            "url": "https://www.applesfera.com/tutoriales/esta-funda-transparente-tu-iphone-amarillenta-asi-puedes-dejarla-otra-vez-como-nueva",
+            "urlToImage": "https://i.blogs.es/a65f2c/portada/840_560.jpeg",
+            "publishedAt": "2022-07-26T10:57:34Z",
+            "content": "Las fundas transparentes del iPhone son un clásico para proteger el terminal mientras seguimos luciéndolo. Sin embargo, con el paso del tiempo pueden tornarse amarillentas y perder ese atractivo inic… [+1339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "David Bernal Raspall",
+            "title": "El iPhone es ahora el único smartphone con esta genial función",
+            "description": "¿Cuántos botones físicos tiene un iPhone? Cuatro si contamos el interruptor para silenciar el teléfono. Un interruptor que lleva con nosotros desde el primer iPhone, que luego dio el salto al iPad, que posteriormente desapareció del iPad y que ahora queda sol…",
+            "url": "https://www.applesfera.com/curiosidades/iphone-ahora-unico-smartphone-esta-genial-funcion",
+            "urlToImage": "https://i.blogs.es/9e4111/phuc-khang-mobile-5ys6ej8fzcy-unsplash/840_560.jpeg",
+            "publishedAt": "2022-07-26T06:47:47Z",
+            "content": "¿Cuántos botones físicos tiene un iPhone? Cuatro si contamos el interruptor para silenciar el teléfono. Un interruptor que lleva con nosotros desde el primer iPhone, que luego dio el salto al iPad, q… [+1689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Tyler Lee",
+            "title": "Samsung just hired one of Apple’s semiconductor specialists",
+            "description": "It seems that Samsung has managed to convince a former Apple semiconductor specialist to come and work for their company.\nThe post Samsung just hired one of Apple’s semiconductor specialists first appeared on Phandroid.",
+            "url": "https://phandroid.com/2022/07/26/samsung-just-hired-one-of-apples-semiconductor-specialists/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2015/12/samsung-logo-640x378.jpg",
+            "publishedAt": "2022-07-26T11:08:26Z",
+            "content": "Say what you will about Apple’s products, but if there is one thing the company has done quite well for itself over the years would be its custom chipsets, especially with the recent transition to Ap… [+1166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Ingrid Adames",
+            "title": "10 DuckDuckGo Facts For Digital Marketers & SEO Pros via @sejournal, @IngridPAdames",
+            "description": "The privacy-focused search engine can help you take your digital marketing strategy to the next level. Discover 10 facts and uncover its potential use.\nThe post 10 DuckDuckGo Facts For Digital Marketers & SEO Pros appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/10-duckduckgo-facts/458405/",
+            "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/07/duckduckgo-facts--62d98043e9177-sej.png",
+            "publishedAt": "2022-07-26T11:47:24Z",
+            "content": "How often do you use DuckDuckGo?\r\nIf you answered “never,” you might want to read this article.\r\nOver the years, DuckDuckGo has redesigned itself and evolved to better meet searchers’ needs and prote… [+8556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Setra",
+            "title": "Un écran révolutionnaire pour l’iPhone 14 ?",
+            "description": "Selon une nouvelle rumeur, l’écran de l’iPhone 14 profiterait d’une toute nouvelle technologie développée par Samsung.",
+            "url": "https://www.presse-citron.net/un-ecran-revolutionnaire-pour-liphone-14/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2021/09/iphone-13-gamme-face.jpg",
+            "publishedAt": "2022-07-26T06:30:11Z",
+            "content": "Les rumeurs au sujet des prochains iPhone continuent de circuler. Parmi les nouveautés les plus attendues, il y a le nouveau design de lécran de liPhone 14 Pro et de liPhone 14 Pro Max, ainsi que lap… [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Setra",
+            "title": "Télémédecine : Amazon fait l’acquisition de One Medical pour 3,9 milliards de dollars",
+            "description": "Amazon est à fond sur la santé, il vient d’annoncer l’acquisition de One Medical pour 3,9 milliards de dollars.",
+            "url": "https://www.presse-citron.net/telemedecine-amazon-fait-lacquisition-de-one-medical-pour-39-milliards-de-dollars/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2022/07/sante-medecin-sthetoscope-docteur-hopital.jpg",
+            "publishedAt": "2022-07-26T10:45:52Z",
+            "content": "La santé est un secteur qui intéresse les géants de la tech. Et en ce qui concerne Amazon, celui-ci a déjà quelques produits dans ce domaine.\r\nEn plus de ses bracelets « Halo » qui permettent davoir … [+4109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Ingo Pakalski",
+            "title": "Streaming: Netflix-App für iOS erlaubt wieder Abo-Buchung vom iPhone",
+            "description": "Aus der Netflix-App für iOS ist wieder eine Abobuchung auf einem iPhone möglich. Das geschieht abseits von Apples Abrechnungssystem. (Netflix, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fstreaming-netflix-app-fuer-ios-erlaubt-wieder-abo-buchung-vom-iphone-2207-167151.html&referer=https%3A%2F%2Ft.co%2F4cf60d3a0e",
+            "urlToImage": null,
+            "publishedAt": "2022-07-26T07:01:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Mahmoud Itani",
+            "title": "iCloud for Windows now supports iOS 15’s 2FA Code Generator and Password Notes",
+            "description": "With the stable release of iOS 16 being around two months away, Apple is adding the final touches to iOS 15. The Cupertino firm has already introduced all of the features it announced back in WWDC21. Now it’s seeding minor updates to last year’s big release t…",
+            "url": "https://www.xda-developers.com/icloud-windows-supports-2fa/",
+            "urlToImage": "https://www.xda-developers.com/files/2022/07/iCloud-for-Windows.jpg",
+            "publishedAt": "2022-07-26T12:20:17Z",
+            "content": "With the stable release of iOS 16 being around two months away, Apple is adding the final touches to iOS 15. The Cupertino firm has already introduced all of the features it announced back in WWDC21.… [+1692 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "10 Tuesday AM Reads",
+            "description": "My Two-for-Tuesday morning train WFH reads: • Weak Earnings Reports Aren’t Fazing Investors After Brutal Year for Stocks Shares of Bank of America, Tesla and Netflix rise after posting better-than-feared results (Wall Street Journal) see also Why You Should B…",
+            "url": "https://ritholtz.com/2022/07/10-tuesday-am-reads-389/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2022/07/earnings.jpeg",
+            "publishedAt": "2022-07-26T10:30:24Z",
+            "content": "Weak Earnings Reports Arent Fazing Investors After Brutal Year for Stocks Shares of Bank of America, Tesla and Netflix rise after posting better-than-feared results (Wall Street Journal) see also Why… [+3479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "Transcript: Graham Weaver",
+            "description": "﻿     The transcript from this week’s, MiB: Graham Weaver, Alpine Investors, is below. You can stream and download our full conversation, including the podcast extras on iTunes, Spotify, Stitcher, Google, Bloomberg, and Acast. All of our earlier podcasts on y…",
+            "url": "https://ritholtz.com/2022/07/transcript-graham-weaver/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2021/01/MIB-.png",
+            "publishedAt": "2022-07-26T12:00:50Z",
+            "content": "The transcript from this weeks, MiB: Graham Weaver, Alpine Investors, is below.\r\nYou can stream and download our full conversation, including the podcast extras on iTunes, Spotify, Stitcher, Google, … [+59342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "C. Scott Brown",
+            "title": "Here’s the new Samsung Galaxy S22 color: Bora Purple",
+            "description": "There's a new colorway available for the Samsung Galaxy S22: \"Bora Purple.\" It's a subtle shade of purple that looks pretty classy.",
+            "url": "https://www.androidauthority.com/samsung-galaxy-s22-bora-purple-photos-3189105/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/07/Samsung-Galaxy-S22-Bora-Purple-Hero.jpg",
+            "publishedAt": "2022-07-26T12:00:41Z",
+            "content": "<ul><li>The Samsung Galaxy S22 has a new colorway called Bora Purple.</li><li>Unlike the currently available Violet, Bora Purple features purple rails, making it unique to the line.</li><li>The new c… [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Tristan Carballeda",
+            "title": "Waze va inclure les bornes de recharge sur ses cartes",
+            "description": "L'application Waze va maintenant permettre aux automobilistes de savoir où sont situées les bornes de recharge.",
+            "url": "https://www.presse-citron.net/waze-bornes-de-recharge-carte/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2020/07/Waze_.jpg",
+            "publishedAt": "2022-07-26T08:30:46Z",
+            "content": "Waze est une application de navigation au même titre que la très célèbre Google Maps, ou son pendant sous iOS, Apple Plans. Si les trois applications sont assez similaires, elles se distinguent par q… [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+            "title": "Marvel Drops 'Black Panther: Wakanda Forever Prologue' EP With Tems, Amaarae and Santa Fe Klan",
+            "description": "Marvel has delivered the Black Panther: Wakanda Forever Prologue EP shortly after releasing the trailer of the highly-anticipated sequel at Comic-Con 2022.Clocking in at under 10 minutes, the three-track project is produced by Ludwig Göransson and features Te…",
+            "url": "https://hypebeast.com/2022/7/black-panther-wakanda-forever-prologue-ep-stream",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F07%2Fblack-panther-wakanda-forever-prologue-ep-stream-tw.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2022-07-26T02:33:35Z",
+            "content": "Marvel has delivered the Black Panther: Wakanda ForeverPrologue EP shortly after releasing the trailer of the highly-anticipated sequel at Comic-Con 2022.\r\nClocking in at under 10 minutes, the three-… [+1698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "heyimjoew@icloud.com (Joe Wituschek)",
+            "title": "Apple Store Time Machine app lets you experience four iconic stores",
+            "description": "Michael Steeber, who previously covered Apple Retail for 9to5Mac, has released a new app called Apple Store Time Machine that allows you to walk through four iconic stores.",
+            "url": "https://www.imore.com/apple/apple-store-time-machine-app-lets-you-experience-four-iconic-stores",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DtLmdrH9ZYsTT239QiE38o-1200-80.jpg",
+            "publishedAt": "2022-07-26T00:09:40Z",
+            "content": "A lot of people in the Apple community know Michael Steeber. For years, the journalist covered Apple Retail for 9to5Mac. He left the publication last year and has been working on a new project that h… [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Stephen Warwick",
+            "title": "Apple takes the covers off stunning new London Store",
+            "description": "Apple has today unveiled its new Brompton Road store in London for the first time ahead of its opening on Thursday.",
+            "url": "https://www.imore.com/apple/apple-takes-the-covers-off-stunning-new-london-store",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jGv5GsnGAxhEkeUorB4K33-1200-80.jpg",
+            "publishedAt": "2022-07-26T09:43:08Z",
+            "content": "Apple has today taken the covers off its new Apple Brompton Road store in Knightsbridge ahead of the store's opening on Thursday. \r\n\"Apple Brompton Road features design inspiration drawn from local f… [+1636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Stephen Warwick",
+            "title": "Apple to launch rare iPhone 13 discount in China ahead of iPhone 14",
+            "description": "Apple is holding a rare promotion on the iPhone 13 in China this weekend ahead of the iPhone 14's launch.",
+            "url": "https://www.imore.com/iphone/apple-to-launch-rare-iphone-13-discount-in-china-ahead-of-iphone-14",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GgqAQcD58zwst9Mt4mRsFW-1200-80.jpg",
+            "publishedAt": "2022-07-26T09:16:39Z",
+            "content": "Apple will this weekend hold a promotion on its iPhone 13 lineup in China ahead of the iPhone 14 launch, in a rare move to try and buoy customers to buy its devices. \r\nAs noted by Bloomberg Apple is … [+1817 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Stephen Warwick",
+            "title": "Apple Music takes 10-20% share of UK streaming, says report",
+            "description": "A new report from the UK's CMA suggests Apple has a 10-20% share of music streaming compared to 50-60% for Spotify.",
+            "url": "https://www.imore.com/music-movies-tv/apple-music/apple-music-takes-10-20-share-of-uk-streaming-says-report",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LrDxoAxZyZB2SDpRi56Rca-1200-80.jpg",
+            "publishedAt": "2022-07-26T10:27:56Z",
+            "content": "A new report from the UK's Competition and Markets Authority on Music streaming suggests that Apple has a share of around 10-20% in music streaming in the country, and that competition between servic… [+1971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Report: Apple, Google, Microsoft, and Amazon have been buying gold that was illegally mined from Brazilian indigenous lands for their products and servers (Filipe Espósito/9to5Mac)",
+            "description": "Filipe Espósito / 9to5Mac:\nReport: Apple, Google, Microsoft, and Amazon have been buying gold that was illegally mined from Brazilian indigenous lands for their products and servers  —  Natural resources such as gold and copper are fundamental in the manufact…",
+            "url": "https://www.techmeme.com/220726/p4",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/Apple-and-other-companies-reportedly-bought-gold-from-illegal-miners-in-Brazil.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-26T06:30:13Z",
+            "content": "The New Consumer— by Dan Frommer\r\nA publication about how and why people spend their time and money, focusing on the most interesting and innovative companies, people, products, and trends."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vida Extra"
+            },
+            "author": "Sergio Cejas (Beld)",
+            "title": "Papers, Please, la excelente obra de Lucas Pope, dará el salto a los móviles dentro de muy poco",
+            "description": "Prácticamente ha pasado una década desde que el clásico Papers, Please salió a la venta con su brillante propuesta que le hizo recibir una buena cantidad de premios en su momento. Tras su paso por PC y PS Vita el juego se prepara ahora para volver a la vida c…",
+            "url": "https://www.vidaextra.com/otros-generos/papers-please-excelente-obra-lucas-pope-dara-salto-a-moviles-dentro-muy-poco",
+            "urlToImage": "https://i.blogs.es/bd8e78/papers-please/840_560.jpeg",
+            "publishedAt": "2022-07-26T06:01:45Z",
+            "content": "Prácticamente ha pasado una década desde que el clásico Papers, Please salió a la venta con su brillante propuesta que le hizo recibir una buena cantidad de premios en su momento. Tras su paso por PC… [+1072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xatakamovil.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "Las últimas filtraciones de los iPhone 14 dan pistas sobre su rendimiento: más y mejor memoria RAM",
+            "description": "En mes y medio puede que estemos ya conociendo oficialmente los iPhone 14. Situados una vez más en la lista de los smartphones más esperados del año, Apple podría implementar mejoras muy interesantes en sus dispositivos a la par que, quien sabe, una considera…",
+            "url": "https://www.xatakamovil.com/apple/ultimas-filtraciones-iphone-14-dan-pistas-su-rendimiento-mejor-memoria-ram",
+            "urlToImage": "https://i.blogs.es/51d1a1/iphone-14-ram/840_560.jpg",
+            "publishedAt": "2022-07-26T08:47:55Z",
+            "content": "En mes y medio puede que estemos ya conociendo oficialmente los iPhone 14. Situados una vez más en la lista de los smartphones más esperados del año, Apple podría implementar mejoras muy interesantes… [+2505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xatakamovil.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "Amazon Prime Video subirá de precio en septiembre: así queda frente a Netflix, HBO y el resto de su competencia",
+            "description": "En plena época de inflación económica con subidas de precios en prácticamente cualquier área, la del streaming parece no salvarse tampoco. Amazon Prime ha confirmado ya una subida de precio a partir de septiembre, la cual afectará a la suscripción mensual y a…",
+            "url": "https://www.xatakamovil.com/tv-movil/amazon-prime-video-subira-precio-septiembre-asi-queda-frente-a-netflix-hbo-resto-su-competencia",
+            "urlToImage": "https://i.blogs.es/76ccb2/plataformas-de-streaming/840_560.jpg",
+            "publishedAt": "2022-07-26T07:31:46Z",
+            "content": "En plena época de inflación económica con subidas de precios en prácticamente cualquier área, la del streaming parece no salvarse tampoco. Amazon Prime ha confirmado ya una subida de precioa partir d… [+4719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xatakamovil.com"
+            },
+            "author": "Iván Linares",
+            "title": "Tu próximo móvil con chip de MediaTek estará fabricado por Intel: el acuerdo le roba terreno a TSMC y a Samsung",
+            "description": "Se ha producido un acuerdo de enorme calado en lo que respecta a la fabricación de semiconductores: Intel fabricará procesadores diseñados por MediaTek. De esta manera, se forma una alianza que diversificará en gran medida la fabricación de chips para smartph…",
+            "url": "https://www.xatakamovil.com/procesadores/tu-proximo-movil-chip-mediatek-estara-fabricado-intel-acuerdo-le-roba-terreno-a-tsmc-a-samsung",
+            "urlToImage": "https://i.blogs.es/4af544/intel-mediatek-portada/840_560.jpg",
+            "publishedAt": "2022-07-26T10:45:45Z",
+            "content": "Se ha producido un acuerdo de enorme calado en lo que respecta a la fabricación de semiconductores: Intel fabricará procesadores diseñados por MediaTek. De esta manera, se forma una alianza que diver… [+2577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xatakamovil.com"
+            },
+            "author": "Laura Sacristán",
+            "title": "JustWatch ahora te dice dónde ver el fútbol o la Fórmula 1: así funciona JustWatch Sports",
+            "description": "Poco a poco, el número de plataformas de streaming -y su catálogo de contenidos- ha ido aumentando hasta tal punto que decidir qué vamos a ver esta noche o localizar una película o serie puede resultarnos muy tedioso. Para facilitarnos la tarea, existen soluc…",
+            "url": "https://www.xatakamovil.com/aplicaciones/justwatch-ahora-te-dice-donde-ver-futbol-formula-1-asi-funciona-justwatch-sports",
+            "urlToImage": "https://i.blogs.es/a43b1c/justwatch-sports-devices/840_560.jpg",
+            "publishedAt": "2022-07-26T12:01:47Z",
+            "content": "Poco a poco, el número de plataformas de streaming -y su catálogo de contenidos- ha ido aumentando hasta tal punto que decidir qué vamos a ver esta noche o localizar una película o serie puede result… [+3196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Playpcesor.com"
+            },
+            "author": "Esor Huang",
+            "title": "EP 10 如何發現問題、拆解問題、找到解決問題方法？",
+            "description": "時間管理 最重要的不是安排時間，而是如何有效地完成一件事情，而在這樣的過程中，如何解決那些卡關、阻礙與干擾，其實才是決定時間管理是否有效的關鍵。 甚至有時候如果沒有發現問題、不知道如何拆解問題，當然也不知道如何設定解決問題的方案時，就算排出再厲害的時間表或計畫表，最終還是會變得...",
+            "url": "https://www.playpcesor.com/2022/07/ep-10.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_O2idTm9crew5ju7VelG9uFEUeyiZ4oMYE-e5ucsXX7FW23f2jRJ2zGSLbrLTUWLKROz2-aM5x0Ro9l6acCqKoNUN0WLitan9t_NIBj7bN1fQH_NyBCx9chSlWTAa6wRqQTu2puF3eYQfa8Qm6l6pOILvZ0ZRpcAUmJO4W1WVgOAZJJOqYg/w1200-h630-p-k-no-nu/%E5%A6%82%E4%BD%95%E7%99%BC%E7%8F%BE%E5%95%8F%E9%A1%8C%E3%80%81%E6%8B%86%E8%A7%A3%E5%95%8F%E9%A1%8C%E3%80%81%E6%89%BE%E5%88%B0%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C%E6%96%B9%E6%B3%95%EF%BC%9F.png",
+            "publishedAt": "2022-07-26T06:21:00Z",
+            "content": "時間管理最重要的不是安排時間，而是如何有效地完成一件事情，而在這樣的過程中，如何解決那些卡關、阻礙與干擾，其實才是決定時間管理是否有效的關鍵。甚至有時候如果沒有發現問題、不知道如何拆解問題，當然也不知道如何設定解決問題的方案時，就算排出再厲害的時間表或計畫表，最終還是會變得一團混亂。\r\n當有些朋友開始意識到原來找出問題這麼重要時，接著下一個層次就會意識到，自己好像很不會（或很不願）找出自己的問題… [+5470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Rhiannon Williams",
+            "title": "The Download: a hepatitis mystery, and chasing crypto",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re starting to understand the mysterious surge of hepatitis in children The news: Hundreds of young children around th…",
+            "url": "https://www.technologyreview.com/2022/07/26/1056465/download-hepatitis-mystery-children-virus-government-crypto-seize-stolen/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2022/07/GettyImages-908932908-crop.jpeg?resize=1200,600",
+            "publishedAt": "2022-07-26T12:05:00Z",
+            "content": "Ive combed the internet to find you todays most fun/important/scary/fascinating stories about technology.\r\n1 Big Tech wants to kill the leap second The extra time has triggered internet outages and d… [+3206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "caschy",
+            "title": "Massives Update: Look Around (Umsehen) für unzählige weitere Orte in Apple Karten",
+            "description": "Apples Kartenanwendung hat in der letzten Zeit einige Verbesserungen erhalten. Apple hatte zuletzt im April Neuerungen für die Karten-App angekündigt. Als Apple Karten startete, sprachen viele von einem Misserfolg, im Laufe der Jahre hat Apple viel Arbeit in …",
+            "url": "https://stadt-bremerhaven.de/massives-update-look-around-umsehen-fuer-unzaehlige-weitere-orte-in-apple-karten/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/06/apple-karten-look-around_.jpg",
+            "publishedAt": "2022-07-26T09:32:09Z",
+            "content": "Apples Kartenanwendung hat in der letzten Zeit einige Verbesserungen erhalten. Apple hatte zuletzt im April Neuerungen für die Karten-App angekündigt. Als Apple Karten startete, sprachen viele von ei… [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MSPoweruser"
+            },
+            "author": "Sharron Bennet",
+            "title": "Meta to shutdown experimental app project ‘Tuned’ this September",
+            "description": "Tuned, an app built by Meta’s New Product Experimentation team, will be shutting down. Users are reportedly receiving messages that encourage them to download their data before September 19 of this year. The announcement was then later confirmed with the chan…",
+            "url": "https://mspoweruser.com/meta-to-shutdown-experimental-app-project-tuned-this-september/",
+            "urlToImage": "https://mspoweruser.com/wp-content/uploads/2020/02/mspu-logo-transparent-large.png",
+            "publishedAt": "2022-07-26T07:54:02Z",
+            "content": "Tuned, an app built by Metas New Product Experimentation team, will be shutting down. Users are reportedly receiving messages that encourage them to download their data before September 19 of this ye… [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wwwhatsnew.com"
+            },
+            "author": "Miriam Schuager",
+            "title": "Netflix permite suscribirse desde su app para iOS sin pasar por la comisión de Apple",
+            "description": "Netflix está sumando una nueva opción en su app para iOS, que redirigirá a los usuarios a su página web para completar el proceso de suscripción. Una opción que facilita el proceso a los usuarios  y mantiene la estrategia de evitar la comisión del 30% de Appl…",
+            "url": "https://wwwhatsnew.com/2022/07/26/netflix-permite-suscribirse-desde-su-app-ios-sin-pasar-por-la-comision-de-apple/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2022/07/Netflix-1.jpg",
+            "publishedAt": "2022-07-26T02:00:54Z",
+            "content": "Netflix está sumando una nueva opción en su app para iOS, que redirigirá a los usuarios a su página web para completar el proceso de suscripción.\r\nUna opción que facilita el proceso a los usuarios  y… [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "[图]Google正升级多款应用 让其在Android平板上可以更好运行",
+            "description": "Google 正针对旗下多款 Android 平板应用进行升级，让其在更大屏幕设备上可以更好的工作。本次升级范围覆盖 Google Drive、Docs、Sheets、Slides 和 Keep 在内的主要应用，Google 表示会在未来几周内完成升级。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1296873.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0726/f09ad8fa0164750.webp",
+            "publishedAt": "2022-07-26T02:40:56Z",
+            "content": "DocsSheets Drive Drive Apple 2019 iPadOS iPad DriveDocs Slides Android \r\nGoogle Android 2022 Android 12L Android 5 I/O Android TikTokZoom Facebook 20"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ifanr.com"
+            },
+            "author": "何, 嘉昕",
+            "title": "早报｜苹果官网产品打折 / 马斯克否认插足 Google 创始人婚姻 / 首个国产新冠口服药获批",
+            "description": "未来的机器能「嗅」出爆炸物和你的潜在疾病#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+            "url": "https://www.ifanr.com/1502481",
+            "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2022/07/0718.007.jpeg",
+            "publishedAt": "2022-07-26T00:46:56Z",
+            "content": "39\r\n~\r\n<ul><li> 4 </li><li> Google </li><li></li><li></li><li></li><li></li><li></li><li> 20 </li><li></li><li> AirPods Pro 2 </li><li> PANCAKE 1 6 DoF VR </li><li> Ace Pro 8 3 </li><li></li><li></li… [+1344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "01net.com"
+            },
+            "author": "Florian Bayard",
+            "title": "Apple Car : le géant de Cupertino a déposé des centaines de brevets liés à l’automobile",
+            "description": "L'Apple Car semble bel et bien en développement. D'après les nombreux brevets déposés par Apple ces dernières années, la voiture connectée sera 100% autonome et alimentée par une puce conçue par la marque. Elle embarquerait un système de réalité virtuelle. \nL…",
+            "url": "https://www.01net.com/actualites/apple-car-confirme-apple-depose-centaines-brevets-automobile.html",
+            "urlToImage": "https://www.01net.com/app/uploads/2022/07/Apple-car.jpg",
+            "publishedAt": "2022-07-26T06:40:09Z",
+            "content": "L’Apple Car semble bel et bien en développement. D’après les nombreux brevets déposés par Apple ces dernières années, la voiture connectée sera 100% autonome et alimentée par une puce conçue par la m… [+2945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "ugmbbc",
+            "title": "Apple Music已经拿下英国音乐流媒体市场五分之一份额",
+            "description": "来自英国政府的一份新报告称，Spotify占据了该国约60%的音乐流媒体市场，亚马逊持有高达30%的市场份额，Apple Music位居第三，刚刚超过20%，也就是1/5大关。一项独立的研究最近声称，经济上的困难意味着100万英国用户取消了他们的流媒体音乐账户，但研究没有提到这一点，而是试图研究该国的整体音乐市场。 阅读全文",
+            "url": "https://hot.cnbeta.com/articles/music/1297111.htm",
+            "urlToImage": "https://static.cnbetacdn.com/thumb/article/2022/0726/1a0c3db640efd17.jpg",
+            "publishedAt": "2022-07-26T12:00:34Z",
+            "content": "Spotify60%30%Apple Music20%1/5100"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "“大卖场”百思买求变 开设464.5平方米的数码小商店",
+            "description": "本周二，百思买（Bust Buy）在美国北卡罗来纳州开设了一家数字优先的小型商店，采用和其“大卖场”形式完全不同的零售方式。通常情况下，百思买线下零售店的占地面积通常在 3.5-4 万平方英尺（3251.6-3716.1 平方米），但这家小型商店的面积只有 5000 平方英尺（464.5 平方米），甚至还不如大多数 Apple Store（通常在 6000-8500 平方英尺）。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1296771.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0726/5bb67dd5ab3bd41.webp",
+            "publishedAt": "2022-07-26T00:15:38Z",
+            "content": "Bust Buy 3.5-4 3251.6-3716.1 5000 464.5 Apple Store 6000-8500"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "01net.com"
+            },
+            "author": "Adrian BRANCO",
+            "title": "Pourquoi Samsung pourrait investir 200 milliards de dollars dans des usines de semi-conducteurs aux Etats-Unis ?",
+            "description": "Le géant coréen Samsung ambitionnerait d'investir jusqu'à 192 milliards de dollars sur 20 ans sur deux sites au Texas pour construire pas moins de 11 usines de semi-conducteurs - les \"fabs\". Un investissement qui permettrait aux Etats-Unis de revenir dans la …",
+            "url": "https://www.01net.com/actualites/pourquoi-samsung-pourrait-investir-200-milliards-de-dollars-dans-des-usines-de-semi-conducteurs-aux-usa.html",
+            "urlToImage": "https://www.01net.com/app/uploads/2022/07/MEA2-Samsung-200-milliards-texas-USA-semi.jpg",
+            "publishedAt": "2022-07-26T07:12:54Z",
+            "content": "Le géant coréen Samsung ambitionnerait d’investir jusqu’à 192 milliards de dollars sur 20 ans sur deux sites au Texas pour construire pas moins de 11 usines de semi-conducteurs – les “fabs”. Un inves… [+8356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Justcreative.com"
+            },
+            "author": "Jacob Cass",
+            "title": "10+ Best Printer for Stickers in 2022 (July)",
+            "description": "Are you looking for the best printer for stickers? You are in the right place as we outline all the best printers for stickers! Let's get sticky!",
+            "url": "https://justcreative.com/best-printer-for-stickers/",
+            "urlToImage": "https://justcreative.com/wp-content/uploads/2022/04/Best-Printer-for-Stickers.png",
+            "publishedAt": "2022-07-26T06:26:00Z",
+            "content": "There are currently a lot of printers in the market to choose from when it comes to printing art. Each of them is more suitable for a specific purpose than the other. If you are looking for the best … [+27117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Justcreative.com"
+            },
+            "author": "Jacob Cass",
+            "title": "10+ Best Flip Phones of 2022 (July Update)",
+            "description": "Don't scoff at our list of the best flip phones. WIth new technology, the flip phone is making a comeback and our list gives you the best options out there.",
+            "url": "https://justcreative.com/best-flip-phones/",
+            "urlToImage": "https://justcreative.com/wp-content/uploads/2022/01/Best-flip-phone-1024x512.png",
+            "publishedAt": "2022-07-26T04:25:13Z",
+            "content": "Of all the comebacks emerging today, the best flip phones in 2022 have got to be our favorite!\r\nAlthough were not angry the denim-on-denim trend is slowly growing on people again, theres a special ki… [+18701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Justcreative.com"
+            },
+            "author": "Jacob Cass",
+            "title": "9+ Best Budget Keyboards in 2022 (July)",
+            "description": "Our compiled list of the best budget keyboards helps you find the best keyboards within your budget. Take a look to find the best budget keyboard for you!",
+            "url": "https://justcreative.com/best-budget-keyboards/",
+            "urlToImage": "https://justcreative.com/wp-content/uploads/2022/05/Best-Budget-Keyboards.png",
+            "publishedAt": "2022-07-26T06:38:02Z",
+            "content": "Are you looking for the best budget keyboard for your computer?\r\nThis article compiles a list of the best budget keyboards to help you find the best one under your budget. There are many options avai… [+18946 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Alex Carchidi)",
+            "title": "3 Winning Evergreen Stocks to Buy and Hold for the Next 25 Years",
+            "description": "These companies have cornered the right markets and are chasing the right long-term trends.",
+            "url": "https://www.fool.com/investing/2022/07/26/3-winning-evergreen-stocks-to-buy-and-hold-for-the/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/690916/investor-holds-glasses-while-considering-laptop.jpg",
+            "publishedAt": "2022-07-26T10:45:00Z",
+            "content": "High-flying growth stocks might be fun to buy and watch closely while they're hot. But when you're angling for strong 25-year returns to support your retirement savings, you'll need to invest in comp… [+4412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Leslie Felperin",
+            "title": "The Emigrants review – gritty old-worlders make rewarding trek to American frontier",
+            "description": "Powerfully told story of 19th-century Swedish migrants takes its time, but delivers a fresh, honest take on their arduous pathThis epic-scale adaptation of a series of novels by Vilhelm Moberg deserves its 148-minute running time, giving the plot enough space…",
+            "url": "https://amp.theguardian.com/film/2022/jul/26/the-emigrants-review-gritty-old-worlders-make-rewarding-trek-to-american-frontier",
+            "urlToImage": "https://i.guim.co.uk/img/media/6a67964ab2652ea84698138bdd8add13e587200f/78_0_2343_1406/master/2343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=83c16fec8bff6bcc12da3150ec5998ed",
+            "publishedAt": "2022-07-26T08:00:03Z",
+            "content": "This epic-scale adaptation of a series of novels by Vilhelm Moberg deserves its 148-minute running time, giving the plot enough space to cover a wide and deep tale of a Swedish communitys transition … [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "Anne-Laëtitia Béraud, enregistrement Charles Desthieux (20 Minutes)",
+            "title": "« Mystères d’ici » : Qui est l'Ankou, serviteur de la Mort en Bretagne ?",
+            "description": "Ecoutez notre épisode « Mystères d’ici » du 26 juillet 2022, une série consacrée aux histoires extraordinaires et légendes et découvrez l'Ankou, serviteur de la Mort en Bretagne, figure majeure de la mythologie bretonne",
+            "url": "https://www.20minutes.fr/podcast/3329927-20220726-mysteres-ankou-serviteur-mort-bretagne",
+            "urlToImage": "https://img.20mn.fr/dmSRHJD2RL6hhcpHjB75SSk/1200x768_silhouette-nuit",
+            "publishedAt": "2022-07-26T10:15:02Z",
+            "content": "Tremblez, simples mortels, car un jour viendra, vous rencontrerez l’Ankou. Le serviteur de la Mort a pour mission de collecter les âmes des défunts. Personnage majeur de la mythologie bretonne, l’Ank… [+1434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketingdirecto.com"
+            },
+            "author": "Ana Mora",
+            "title": "La batalla legal del «impuesto Netflix» continúa: ¿deben los servicios de streaming pagar esta tasa?",
+            "description": "Un juez ha desestimado la apelación de Apple contra el \"impuesto Netflix\", que los servicios de streaming deben pagar en Chicago para compensar las pérdidas de las tiendas tradicionales.\nLa entrada La batalla legal del «impuesto Netflix» continúa: ¿deben los …",
+            "url": "https://www.marketingdirecto.com/digital-general/digital/impuesto-netflix-plataformas-streaming-apple",
+            "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2022/07/netflix-publicidad-1.jpg",
+            "publishedAt": "2022-07-26T06:20:00Z",
+            "content": "Un juez ha desestimado la apelación de Apple contra el \"impuesto Netflix\", que los servicios de streaming deben pagar en Chicago para compensar las pérdidas de las tiendas tradicionales.La llegada y … [+2524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Andro4all.com"
+            },
+            "author": "JuanMi Guirado",
+            "title": "Ni Apple ni Samsung: este smartwatch con 4G de gama premium cae a su mínimo histórico",
+            "description": "En el terreno de los relojes inteligentes se mueven muy bien fabricantes como Apple, Samsung y HUAWEI, y en el de relojes deportivos las firmas Polar o Garmin destacan con varios modelos. Sin embargo, hay una que lleva unos años luchando con la élite de ambos…",
+            "url": "https://andro4all.com/ofertas/ni-apple-ni-samsung-este-smartwatch-con-4g-de-gama-premium-cae-a-su-minimo-historico",
+            "urlToImage": "https://andro4all.com/hero/2021/10/Pantalla-del-TicWatch-Pro-3-Ultra-GPS.jpg?width=1200&aspect_ratio=1200:631",
+            "publishedAt": "2022-07-26T06:25:12Z",
+            "content": "26/07/2022 08:28En el terreno de los relojes inteligentes se mueven muy bien fabricantes como Apple, Samsung y HUAWEI, y en el de relojes deportivos las firmas Polar o Garmin destacan con varios mode… [+3820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Andro4all.com"
+            },
+            "author": "JuanMi Guirado",
+            "title": "La tablet Xiaomi que está revolucionando Android vuelve a caer de precio en su modelo más top",
+            "description": "En el mundo de las tablets hay muchos nombres que se diferencian del resto. Uno de ellos es el iPad de Apple, referente para el resto, pero en la otra acera. Y en la parte de Android tenemos a Samsung, HUAWEI, realme y, ahora, Xiaomi, con su mejor dispositivo…",
+            "url": "https://andro4all.com/ofertas/la-tablet-xiaomi-que-esta-revolucionando-android-vuelve-a-caer-de-precio-en-su-modelo-mas-top",
+            "urlToImage": "https://andro4all.com/hero/2021/10/Xiaomi-Pad-5-diseno.jpg?width=1200&aspect_ratio=1200:631",
+            "publishedAt": "2022-07-26T08:30:10Z",
+            "content": "26/07/2022 10:30En el mundo de las tablets hay muchos nombres que se diferencian del resto. Uno de ellos es el iPad de Apple, referente para el resto, pero en la otra acera. Y en la parte de Android … [+3496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "PASMO、「Apple Music」の3カ月無料体験キャンペーン",
+            "description": "PASMO協議会とパスモは、アップル（Apple）の音楽サービス「Apple Music」の3カ月無料体験キャンペーンを開始した。対象は、iPhoneやApple Watch向けの「Apple PayのPASMO」と、Android端末向けの「モバイルPASMO」のユーザー。",
+            "url": "https://k-tai.watch.impress.co.jp/docs/news/1427723.html",
+            "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1427/723/01.jpg",
+            "publishedAt": "2022-07-26T06:41:54Z",
+            "content": "PASMOAppleApple Music3iPhoneApple WatchApple PayPASMOAndroidPASMO \r\n Apple PayPASMOPASMOApple Music98013 \r\n Apple Music2Apple Music"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Dustin Porth",
+            "title": "Watch Series 8: Kommt die Apple Watch Pro mit neuem Design?",
+            "description": "Laut Mark Gurman könnte sich Apple beim Design der Apple Watch noch einmal umentscheiden. Außerdem soll die Pro-Version so viel kosten wie ein iPhone!(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/watch-series-8-kommt-die-apple-watch-pro-mit-neuem-design",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7446224/image/apple-watch-series-8-leak/jon-prosser-apple-watch-series-8-leak-02.jpg",
+            "publishedAt": "2022-07-26T05:00:00Z",
+            "content": "<ul><li>Laut Gurman soll das Design ein gänzlich neues Schema aufweisen.</li><li>Der Display der Smartwatch soll um sieben Prozent größer ausfallen.</li><li>Die Pro-Version soll rund 950 Euro kosten.… [+2806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomshw.it"
+            },
+            "author": "Antonello Buzzi",
+            "title": "Apple e altre potrebbero aver acquistato oro da aziende illegali",
+            "description": "Quattro delle maggiori aziende tecnologiche al mondo hanno acquistato oro estratto in maniera illegale in Brasile.",
+            "url": "https://www.tomshw.it/hardware/apple-e-altre-potrebbero-aver-acquistato-oro-da-aziende-illegali/",
+            "urlToImage": "https://www.tomshw.it/images/images/2022/07/generica-237504.jpg",
+            "publishedAt": "2022-07-26T12:00:40Z",
+            "content": "Case e PC Completi Apple e altre potrebbero aver acquistato oro da aziende illegali\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commis… [+2106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Leela Prasad, Sonal Gupta",
+            "title": "Daily Briefing: Droupadi Murmu sworn in as first tribal woman President; 4 Congress MPs suspended from Parliament",
+            "description": "In today's edition: Droupadi Murmu scripts history as first tribal woman President; the suspension of four Congress MPs in Parliament; India's 5G auctions and more",
+            "url": "https://indianexpress.com/article/live-news/top-news-briefing-today-8051481/",
+            "urlToImage": "https://images.indianexpress.com/2022/07/Express-intro-5.jpg",
+            "publishedAt": "2022-07-26T02:33:54Z",
+            "content": "The Big Story\r\nIn her speech, shortly after taking oath as President, the first to be born after Independence, President Droupadi Murmu said that her election is proof that the poor cannot just dream… [+4105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Jade Bryan",
+            "title": "iPhone 14 Pro noch schneller als der Vorgänger",
+            "description": "Das Apple iPhone 14 Pro und Pro Max werden über schnelleren Speicher verfügen. Es heißt, dass sie mit dem schnelleren und effizienteren LPDDR5-RAM kommen.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/iphone-14-pro-schnellerer-ram-als-vorgaenger",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_iPhone_13_Pro/NextPit_Apple_iPhone_13_Pro_back.jpg",
+            "publishedAt": "2022-07-26T07:19:14Z",
+            "content": "Laut DigiTimes wird Apple angeblich sein iPhone 14 Pro (und Pro Max) mit einem anderen RAM-Typ ausstatten. Die aktuelle iPhone-13-Pro-Serie setzt auf 6 GB LPDDR4X. Das kommende iPhone 14 Pro soll hin… [+1462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Russland will nach 2024 aus Internationaler Raumstation aussteigen",
+            "description": "Gerade erst hatten die USA und Russland beschlossen, Astronauten des jeweils anderen Landes wieder zur Internationalen Raumstation ISS mitzunehmen. Viel Gelegenheit dazu werden sie allerdings nicht bekommen – ab 2024 will Moskau keine russischen Raumfahrer me…",
+            "url": "https://www.welt.de/politik/ausland/article240129987/Laut-Roskosmos-Chef-Russland-will-nach-2024-aus-Internationaler-Raumstation-aussteigen.html",
+            "urlToImage": "https://img.welt.de/img/bildergalerien/mobile240130209/0241357957-ci16x9-w1200/ISS.jpg",
+            "publishedAt": "2022-07-26T11:55:00Z",
+            "content": "Russland will nach 2024 aus der Internationalen Raumstation ISS aussteigen. Das sagte der neue Chef der russischen Raumfahrtbehörde Roskosmos, Juri Borissow, am Dienstag bei einem Treffen mit dem rus… [+1967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Bürgermeister von Mykolajiw meldet russischen Angriff auf Hafen",
+            "description": "Mit Raketenangriffen auf den Hafen von Odessa kurz nach einer Einigung über die Ausfuhr von Getreide hat Russland erst jüngst große Wut auf sich gezogen. Nun sollen Wladimir Putins Truppen einen weiteren Hafen attackiert haben. Ein Überblick.",
+            "url": "https://www.welt.de/politik/ausland/article240120957/Ukraine-Krieg-Buergermeister-von-Mykolajiw-wirft-Russen-Angriff-auf-Hafen-vor.html",
+            "urlToImage": "https://img.welt.de/img/politik/ausland/mobile240120879/4291354437-ci16x9-w1200/Ukraine-Krieg-Mykolajiw.jpg",
+            "publishedAt": "2022-07-26T08:46:32Z",
+            "content": "Russische Truppen haben nach Angaben des Bürgermeisters von Mykolajiw die Infrastruktur des Hafens in der Region angegriffen. Ein massiver Raketenangriff auf den Süden der Ukraine wurde aus Richtung … [+2609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Atlas Obscura"
+            },
+            "author": "The Podcast Team",
+            "title": "Podcast: Maillardet’s Automaton",
+            "description": "Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.\r\n\n\n\nIn this episode of The Atlas Obscura Podcast, we visit a mechanical boy in Philadelphia, Pennsylvania. It was a mystery—until it began to write.\nOur podcast is an audio…",
+            "url": "https://www.atlasobscura.com/articles/podcast-maillardet-s-automaton",
+            "urlToImage": "https://img.atlasobscura.com/W2pvKi38Gsbtm1gX_sBZhGOb9to_c9iywg-fJI_jK-g/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xYjg3YjAwZDkz/NDMyZThiMTBfTWFp/bGxhcmRldCdzX2F1/dG9tYXRvbi5qcGc.jpg",
+            "publishedAt": "2022-07-26T12:00:00Z",
+            "content": "Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.\r\nIn this episode of The Atlas Obscura Podcast, we visit a mechanical boy in Philadelphia, Pennsylvania. It was a… [+423 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "FOCUS",
+            "title": "Shopping-Deal mit FOCUS Online - Tausende Magazine und Zeitungen für nur 99 Cent: Jetzt Readly-Abo sichern",
+            "description": "Immer mehr Menschen lesen Bücher und Magazine in digitaler Form als E-Paper. Die Vorteile: die Inhalte sind jederzeit, überall und im handlichen Format verfügbar. Mit Readly haben Sie Ihre Lieblingslektüre kompakt an einem Ort. Wir bieten Ihnen jetzt ein beso…",
+            "url": "https://www.focus.de/deals/unbegrenzt-lesen-5-000-zeitungen-und-magazine-drei-monate-fuer-nur-99-cent-im-digitalen-abo_id_24436396.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_111399833/20220630-de-partnerships-burda-shopping-deal-generic.jpg?im=Crop%3D%280%2C13%2C1200%2C600%29%3BResize%3D%281200%2C627%29&hash=a4dd6c01636a3f133a72431a83fd6b5fcb4aa649daf653a0297db10dbbf910b3",
+            "publishedAt": "2022-07-26T09:12:00Z",
+            "content": "Ganz egal wo, ganz egal wann lesen Sie diesen Sommer so viel, wie Sie wollen! Mit der Readly-App haben Sie all Ihre Lieblingslektüren immer kompakt als E-Paper an Ort und Stelle und werden so stets t… [+3807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Karapaia.com"
+            },
+            "author": "scarletmiddletones18",
+            "title": "サブウェイで、商品名のタトゥーを入れたらサンドイッチが無料になるキャンペーン",
+            "description": "#authors_store {font-family: -apple-system,BlinkMacSystemFont,Roboto,\"游ゴシック体\",YuGothic,\"Yu Gothic Medium\",sans-serif;}#authors_store .article-header .article-title {font-size: 19px;line-height: 1.3;}#authors_store .content > header {position: relat...",
+            "url": "https://karapaia.com/archives/52314640.html",
+            "urlToImage": "https://livedoor.blogimg.jp/karapaia_zaeega/imgs/6/b/6b46b1f1.jpg",
+            "publishedAt": "2022-07-26T10:00:53Z",
+            "content": "SUBWAY1\r\n30cm×30cm15680\r\n127271159\r\nBad Apple Tattoo\r\n830cm×30cm15680\r\n7.6cm×7.6cm14380605cm×5cm13725\r\n2181\r\nDJ15cm\r\n350100201825\r\nwritten by Scarlet / edited by parumo1005()\r\nDNA\r\nSNS"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fstoppers"
+            },
+            "author": "Alex Cooke",
+            "title": "Should You Buy the M2 MacBook Air or M1 Version?",
+            "description": "The original M1 MacBook Air was a highly popular model that offered remarkable performance and battery life in the iconic Air chassis. The new M2 model brings with it a new chip, but it also comes with a wide variety of new options and upgrades. So, which is …",
+            "url": "https://fstoppers.com/reviews/should-buy-m2-macbook-air-or-m1-version-611468",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2022/07/m1-versus-m2-macbook-air.jpeg",
+            "publishedAt": "2022-07-26T02:01:21Z",
+            "content": "The original M1 MacBook Air was a highly popular model that offered remarkable performance and battery life in the iconic Air chassis. The new M2 model brings with it a new chip, but it also comes wi… [+969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "WL.",
+            "title": "M2 版 MacBook Air 開放預購，售價 37,900 元起、規格該怎麼搭配才好？",
+            "description": "繼 M2 版 MacBook Pro 13 吋開放預購後，M2 版 MacBook Air 也開始預購，只要不是客製化規格的機型，可於 8 月初到貨。M2 版 MacBook Air 終於也在台灣開始預購了，與先推出預購的 M2 版 MacBook 相比，市場關注度更高，因為與前一代的改變差異更大，也是歷年來改變最大的 MacBook Air，目前在官網上有兩個規格可選擇，入門款為 8 核心 CPU 加 8核心 GPU，售價 37,900 元起；另一個版本則為 8 核心 CPU 加 10 核心 GPU，售價 46…",
+            "url": "https://www.techbang.com/posts/98410-the-m2-version-of-macbook-air-is-open-for-pre-order-priced-at",
+            "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/98410/original/0d0df68d3c87f84a21db8fa9efee035a.jpg?1658810483",
+            "publishedAt": "2022-07-26T06:30:00Z",
+            "content": "M2 MacBook Air M2 MacBook MacBook Air 8 CPU 8 GPU 37,900 8 CPU 10 GPU 46,900 \r\n13.6 M2 \r\nM2 Apple MacBook Air 13.6 Liquid Retina 1080p FaceTime HD MagSafe MacBook AirApple MacBook Air M2 13.6 37,900 … [+438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Karapaia.com"
+            },
+            "author": "parumo_zaeega",
+            "title": "アメリカのリスたちに異変。うつぶせで手足を投げだすリスが多発",
+            "description": "#authors_store {font-family: -apple-system,BlinkMacSystemFont,Roboto,\"游ゴシック体\",YuGothic,\"Yu Gothic Medium\",sans-serif;}#authors_store .article-header .article-title {font-size: 19px;line-height: 1.3;}#authors_store .content > header {position: relat...",
+            "url": "https://karapaia.com/archives/52314647.html",
+            "urlToImage": "https://livedoor.blogimg.jp/karapaia_zaeega/imgs/4/e/4e36e5e1.jpg",
+            "publishedAt": "2022-07-26T08:00:25Z",
+            "content": "Kind of cute: How squirrels are staying cool in the summer\r\nSploot\r\nAhhh thanks! Didnt know what was going on here. pic.twitter.com/xhhEcKqCkW\r\n— cat97 (@dcwildcat97) July 20, 2022\r\n42\r\nLearn somethi… [+457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Coliss.com"
+            },
+            "author": "コリス🥦",
+            "title": "最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ",
+            "description": "Apple, Nike, Tesla, AirbnbなどのWebサイトやスマホアプリで使用されている、CSSの一工夫加えたスゴ技テクニックを紹介します。 美しい磨りガラスのヘッダ、コンテンツがズームするエフェクト、タッチ...記事の続きを読む",
+            "url": "https://coliss.com/articles/build-websites/operation/css/lever-css-tricks-by-steve8708.html",
+            "urlToImage": "https://coliss.com/wp-content/uploads-202203/2022072310@2x.png",
+            "publishedAt": "2022-07-26T00:36:05Z",
+            "content": "Apple, Nike, Tesla, AirbnbWebCSS\r\nCSS\r\nmy favorite clever CSS tricksby @Steve8708\r\nApple: \r\nAppleCSS\r\nHow does Apple make that awesome frosted glass effect on their site header in CSS?\r\ntl;dr backdro… [+7673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Carlos Zahumenszky",
+            "title": "HBO Max reestrenará toda la serie de Juego de Tronos en 4K y HDR",
+            "description": "El próximo 21 de agosto se estrena House of the Dragon, la nueva serie ambientada en la saga Canción de Fuego y Hielo. Para celebrarlo, HBO Max comenzará a emitir toda la serie de Juego de Tronos en 4K, HDR compatible con Dolby Vision y Dolby Atmos.Read more.…",
+            "url": "https://es.gizmodo.com/hbo-max-reestrenara-toda-la-serie-de-juego-de-tronos-en-1849331163",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/28252f5360d27bd84aaf3421707915cb.jpg",
+            "publishedAt": "2022-07-26T09:41:00Z",
+            "content": "El próximo 21 de agosto se estrena House of the Dragon, la nueva serie ambientada en la saga Canción de Fuego y Hielo. Para celebrarlo, HBO Max comenzará a emitir toda la serie de Juego de Tronos en … [+1157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businessinsider.de"
+            },
+            "author": "Barbara Barkhausen",
+            "title": "Warum Alibaba plötzlich den Heimatmarkt hofiert",
+            "description": "Die chinesische Techfirma bewirbt sich um eine Primärnotierung ihrer Aktien in Hongkong. Außerdem: Analysten warten gespannt auf Metas Quartalszahlen und Probleme bei Faraday Future.",
+            "url": "https://www.businessinsider.de/gruenderszene/business/alibaba-primaernotierung-hongkong/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2022/07/GettyImages-455722524.jpg?ver=1658801890",
+            "publishedAt": "2022-07-26T03:55:00Z",
+            "content": "Die chinesische Techfirma bewirbt sich um eine Primärnotierung ihrer Aktien in Hongkong. Außerdem: Analysten warten gespannt auf Metas Quartalszahlen und Probleme bei Faraday Future.\r\nGuten Morgen! W… [+4985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Poynter"
+            },
+            "author": "Al Tompkins",
+            "title": "Could we find out this week if we are in a recession?",
+            "description": "Covering COVID-19 is a daily Poynter briefing of story ideas about the coronavirus and other timely topics for journalists, written by senior faculty Al Tompkins. Sign up here to have […]\nThe post Could we find out this week if we are in a recession? appeared…",
+            "url": "https://www.poynter.org/reporting-editing/2022/when-will-we-find-out-recession/",
+            "urlToImage": "https://www.poynter.org/wp-content/uploads/2022/07/AP_22194646836060-1500x1000.jpg",
+            "publishedAt": "2022-07-26T10:00:35Z",
+            "content": "Covering COVID-19 is a daily Poynter briefing of story ideas about the coronavirus and other timely topics for journalists, written by senior faculty Al Tompkins. Sign up here to have it delivered to… [+11506 chars]"
+        }
+    ]
+}
