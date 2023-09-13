@@ -69,7 +69,7 @@ const News = (props) => {
     const fetchMoreData = async () => {
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
         
-        try {
+        try {       
             const response = await axios.get(url);
             const parsedData = response.data;         
             const filter = filteredArticles(parsedData)          
@@ -109,7 +109,7 @@ const News = (props) => {
 }
 
 News.defaultProps = {
-    country: 'in',
+    country: 'us',
     pageSize: 3,
     category: 'general',
 }

@@ -9,24 +9,4 @@ CREATE TABLE users (
     is_admin BOOLEAN NOT NULL DEFAULT FALSE
 );
 
-CREATE TABLE articles (
-    article_id SERIAL PRIMARY KEY,
-    name TEXT NOT NULL,
-    title TEXT NOT NULL,
-    url TEXT NOT NULL,
-    image TEXT NOT NULL,
-    publishedAt TIMESTAMP,
-    user_id INT REFERENCES users(user_id) ON DELETE CASCADE
-);
 
-CREATE TABLE articles_collections (
-    collection_id SERIAL PRIMARY KEY,
-    name TEXT NOT NULL,
-    user_id INT REFERENCES users(user_id) ON DELETE CASCADE
-);
-
-CREATE TABLE collection_articles_rel (
-    collection_id INT REFERENCES articles_collections(collection_id) ON DELETE CASCADE,
-    article_id INT REFERENCES articles(article_id) ON DELETE CASCADE,
-    PRIMARY KEY (collection_id, article_id)
-);

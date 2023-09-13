@@ -115,13 +115,12 @@ class User {
     return result.rows;
   }
 
-  /** Given a username, return data about user.
+/** Given a username, return data about user.
    *
-   * Returns { username, first_name, last_name, is_admin, jobs }
-   *   where jobs is { id, title, company_handle, company_name, state }
-   *
+   * Returns { username, first_name, last_name, is_admin, }  
+
    * Throws NotFoundError if user not found.
-   **/
+**/
 
   static async get(username) {
     const userRes = await db.query(
@@ -139,12 +138,6 @@ class User {
 
     if (!user) throw new NotFoundError(`No user: ${username}`);
 
-    // const userApplicationsRes = await db.query(
-    //       `SELECT a.job_id
-    //        FROM applications AS a
-    //        WHERE a.username = $1`, [username]);
-
-    // user.applications = userApplicationsRes.rows.map(a => a.job_id);
     return user;
   }
 
@@ -168,7 +161,7 @@ class User {
   static async update(username, data) {
     if (data.password) {
       data.password = await bcrypt.hash(data.password, BCRYPT_WORK_FACTOR);
-    }
+    } 
 
     const { setCols, values } = sqlForPartialUpdate(
         data,
@@ -194,7 +187,8 @@ class User {
 
     delete user.password;
     return user;
-  }
+   
+}
 
   /** Delete given user from database; returns undefined. */
 

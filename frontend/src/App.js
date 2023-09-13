@@ -10,6 +10,7 @@ import Homepage from "./homepage/Homepage";
 import LoginForm from "./form/LoginForm";
 import SignupForm from "./form/SignupForm";
 import ProfileForm from "./profile/ProfileForm";
+import LoadingSpinner from './support/LoadingSpinner';
 import './App.css';
 import "./polyfills";
 
@@ -17,10 +18,10 @@ import React, { useState, useEffect } from "react";
 import {
   BrowserRouter as Router,
   Routes,
-  Route, 
-  Navigate
+  Route,  
 } from 'react-router-dom'
 import LoadingBar from '@weblif/react-top-loading-bar'
+import apiKey from './env.js'
 
 export const TOKEN_STORAGE_ID = "NewsApi-token";
 
@@ -30,8 +31,7 @@ const App = () => {
   const [infoLoaded, setInfoLoaded] = useState(false);  
   const [progress, setProgress] = useState(0)
 
-  // const apiKey = process.env.REACT_APP_NEWS_API_KEY;
-  const apiKey = "c09f6fcff73747f0ae18dc62117303db"
+  // Set limit per each time to load data
   const pageSize = 5;
 
   // Handle Auth
@@ -94,6 +94,8 @@ const App = () => {
     setToken(null)
   }
 
+  if (!infoLoaded) return <LoadingSpinner />;
+
   // Return Routes
     return (
       <>
@@ -105,15 +107,17 @@ const App = () => {
                 color='#39FF14'
                 progress={progress}
               />
-              <Routes>
+              <Routes>             
                 {/* Unauthorized Routes  */}
                 {!currentUser && (
                   <>
+                    <Route path="/" element={<Homepage />} />
                     <Route path="/login" element={<LoginForm login={login} />} />
-                    <Route path="/signup" element={<SignupForm signup={signup} />} />
+                    <Route path="/signup" element={<SignupForm signup={signup} />} />                    
                   </>
-                )}
-                <Route path="/homepage" element={<Homepage />} />
+                )}  
+
+                <Route path="/homepage" element={<Homepage />} />              
 
                 {/* Authorized Routes  */}
                 {currentUser && (

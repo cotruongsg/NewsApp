@@ -2,6 +2,8 @@ import React, { useState, useContext } from "react";
 import UserContext from "../auth/UserContext";
 import NewsApi from "../api/api";
 import Alert from "../support/Alert";
+
+
 function ProfileForm() {
   const { currentUser, setCurrentUser } = useContext(UserContext);
   const [formData, setFormData] = useState({
@@ -59,10 +61,10 @@ function ProfileForm() {
    }
 
    return (
-     <div className="col-md-6 col-lg-4 offset-md-3 offset-lg-4">
-       <h2>Profile</h2>
-       <div className="card">
+     <div className="col-md-6 col-lg-4 offset-md-3 offset-lg-4">       
+       <div className="card m-4 ">
          <div className="card-body">
+           <h2 className="text-center">Profile</h2>
            <form onSubmit={handleSubmit}>
              <div className="form-group">
                <label><b>Username</b></label>

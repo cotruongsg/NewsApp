@@ -4,13 +4,11 @@
 
 const express = require("express");
 const cors = require("cors");
-
 const { NotFoundError } = require("./expressError");
-
 const { authenticateJWT } = require("./middleware/auth");
 const authRoutes = require("./routes/auth");
 const usersRoutes = require("./routes/users");
-const searchNewsRoutes = require("./routes/searchEngine")
+
 
 const morgan = require("morgan");
 
@@ -23,7 +21,7 @@ app.use(authenticateJWT);
 
 app.use("/auth", authRoutes);
 app.use("/users", usersRoutes);
-app.use("/news", searchNewsRoutes);
+
 
 
 /** Handle 404 errors -- this matches everything */

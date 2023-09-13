@@ -30,7 +30,7 @@ const NewsItem = (props) => {
               <h4 className="card-text"><small className="">Author: {author}</small></h4>
               <p className="card-text"><small className="text-muted">Uploaded on {formattedDate}</small></p>
               <a href={newsUrl} rel="noreferrer" target="_blank" className="btn btn-success btn-sm">Read More</a>
-              <FontAwesomeIcon icon={faHeart} style={{ marginLeft: '15px' , color: 'white', fontSize: '20px' , marginTop:'5px' , cursor: 'pointer'}} />
+              {/* <FontAwesomeIcon icon={faHeart} style={{ marginLeft: '15px' , color: 'white', fontSize: '20px' , marginTop:'5px' , cursor: 'pointer'}} /> */}
             </div>
           </div>
         </div>
