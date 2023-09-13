@@ -67,19 +67,22 @@ const News = (props) => {
 
 
     const fetchMoreData = async () => {
-        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
-        
-        try {       
+        // Add a delay of 3 seconds before executing fetchMoreData
+        setTimeout(async () => {
+          const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
+      
+          try {
             const response = await axios.get(url);
-            const parsedData = response.data;         
-            const filter = filteredArticles(parsedData)          
+            const parsedData = response.data;
+            const filter = filteredArticles(parsedData);
             setArticles((prevArticles) => [...prevArticles, ...filter]);
             setTotalResults(parsedData.totalResults);
             setPage((prevPage) => prevPage + 1);
-        } catch (error) {
+          } catch (error) {
             console.error('Error fetching more data:', error);
-        }
-    }
+          }
+        }, 3000); // 3000 milliseconds (3 seconds) delay
+    };
 
     return (
         <>
