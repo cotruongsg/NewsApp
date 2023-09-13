@@ -1,6 +1,6 @@
 Goal of Project:
 
-Create a project to with external API (newsAPI) to search the breaking news from multiple different News online sources on the Internet as General , Technology , Health topics , etc..
+Create a project with external API (newsAPI) to search the breaking news from multiple different News online sources on the Internet as General , Technology , Health topics , etc..
 
 API Using:
 
