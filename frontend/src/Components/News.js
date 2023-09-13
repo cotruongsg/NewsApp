@@ -100,7 +100,11 @@ const News = (props) => {
                     <div className="row">
                         {article.map((element) => {
                             return <div key={element.url} className="col-md-4">
-                                <NewsItem title={element.title ? element.title.slice(0, 40) + "..." : ""} description={element.description ? element.description.slice(0, 190) + "..." : ""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author ? element.author : "Unknown"} date={element.publishedAt} newsSource={element.source.name} />
+                                <NewsItem title={element.title ? element.title.slice(0, 40) + "..." : ""} 
+                                description={element.description ? element.description.slice(0, 190) + "..." : ""} 
+                                imageUrl={element.urlToImage} newsUrl={element.url} 
+                                author={element.author ? element.author : "Unknown"} 
+                                date={element.publishedAt} newsSource={element.source.name} />
                             </div>
                         })}
                     </div>
