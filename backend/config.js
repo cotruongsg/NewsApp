@@ -11,16 +11,17 @@ const PORT = +process.env.PORT || 3001;
 let DB_URI = `postgresql://${username_password}@${host_ip_port}`;
 
 // Use dev database, testing database, or via env var, production database
-// For localhost DB
-// function getDatabaseUri() {
-//   return (process.env.NODE_ENV === "test")
-//       ? `${DB_URI}/breaking_news_test`
-//       : process.env.DATABASE_URL || `${DB_URI}/breaking_news`;
-// }
-
+//// For localhost DB
 function getDatabaseUri() {
-  return process.env.DATABASE_URL || `${DB_URI}`;
+  return (process.env.NODE_ENV === "test")
+      ? `${DB_URI}/breaking_news_test`
+      : process.env.DATABASE_URL || `${DB_URI}/breaking_news`;
 }
+
+//// For Render cloud
+// function getDatabaseUri() {
+//   return process.env.DATABASE_URL || `${DB_URI}`;
+// }
 
 // Speed up bcrypt during tests, since the algorithm safety isn't being tested
 // WJB: Evaluate in 2021 if this should be increased to 13 for non-test use
