@@ -1,10 +1,10 @@
 import axios from "axios";
 
 // Localhost
-const BASE_URL = process.env.REACT_APP_BASE_URL || "http://localhost:3001";
+// const BASE_URL = process.env.REACT_APP_BASE_URL || "http://localhost:3001";
 
 // Cloud
-// const BASE_URL = "https://breakingnews-backend-ows6.onrender.com"
+const BASE_URL = "https://breakingnews-backend-ows6.onrender.com"
 
 /** API Class.
  *
